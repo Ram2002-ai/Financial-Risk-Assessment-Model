@@ -1,4 +1,4 @@
-# 🏦 Loan Approval Prediction System
+# 🏦 Financial Risk Assessment Model
 
 ## 📌 Project Overview
 
